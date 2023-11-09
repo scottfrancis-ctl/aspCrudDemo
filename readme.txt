@@ -19,3 +19,5 @@ note this nuget package gallery does most of the 'coding' for you.  trouble seem
   this was only an introductory example.
 
 github branch change note
+
+work githup branch checkout note
