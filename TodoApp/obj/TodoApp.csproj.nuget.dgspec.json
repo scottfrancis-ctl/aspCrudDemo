@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Scott\\Documents\\workspace\\vsCode\\aspCrudDemo\\TodoApp\\TodoApp.csproj": {}
+    "c:\\Users\\sfranci\\OneDrive - Lumen\\Documents\\workspace\\VS_code\\aspCrudDemo\\TodoApp\\TodoApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Scott\\Documents\\workspace\\vsCode\\aspCrudDemo\\TodoApp\\TodoApp.csproj": {
+    "c:\\Users\\sfranci\\OneDrive - Lumen\\Documents\\workspace\\VS_code\\aspCrudDemo\\TodoApp\\TodoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Scott\\Documents\\workspace\\vsCode\\aspCrudDemo\\TodoApp\\TodoApp.csproj",
+        "projectUniqueName": "c:\\Users\\sfranci\\OneDrive - Lumen\\Documents\\workspace\\VS_code\\aspCrudDemo\\TodoApp\\TodoApp.csproj",
         "projectName": "TodoApp",
-        "projectPath": "C:\\Users\\Scott\\Documents\\workspace\\vsCode\\aspCrudDemo\\TodoApp\\TodoApp.csproj",
-        "packagesPath": "C:\\Users\\Scott\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Scott\\Documents\\workspace\\vsCode\\aspCrudDemo\\TodoApp\\obj\\",
+        "projectPath": "c:\\Users\\sfranci\\OneDrive - Lumen\\Documents\\workspace\\VS_code\\aspCrudDemo\\TodoApp\\TodoApp.csproj",
+        "packagesPath": "C:\\Users\\sfranci\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\sfranci\\OneDrive - Lumen\\Documents\\workspace\\VS_code\\aspCrudDemo\\TodoApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Scott\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\sfranci\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

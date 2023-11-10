@@ -10672,19 +10672,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Scott\\.nuget\\packages\\": {}
+    "C:\\Users\\sfranci\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Scott\\Documents\\workspace\\vsCode\\aspCrudDemo\\TodoApp\\TodoApp.csproj",
+      "projectUniqueName": "C:\\Users\\sfranci\\OneDrive - Lumen\\Documents\\workspace\\VS_code\\aspCrudDemo\\TodoApp\\TodoApp.csproj",
       "projectName": "TodoApp",
-      "projectPath": "C:\\Users\\Scott\\Documents\\workspace\\vsCode\\aspCrudDemo\\TodoApp\\TodoApp.csproj",
-      "packagesPath": "C:\\Users\\Scott\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Scott\\Documents\\workspace\\vsCode\\aspCrudDemo\\TodoApp\\obj\\",
+      "projectPath": "C:\\Users\\sfranci\\OneDrive - Lumen\\Documents\\workspace\\VS_code\\aspCrudDemo\\TodoApp\\TodoApp.csproj",
+      "packagesPath": "C:\\Users\\sfranci\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sfranci\\OneDrive - Lumen\\Documents\\workspace\\VS_code\\aspCrudDemo\\TodoApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Scott\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\sfranci\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

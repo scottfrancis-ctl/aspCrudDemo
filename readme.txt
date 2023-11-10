@@ -5,18 +5,20 @@ https://medium.com/techiepedia/how-to-create-run-asp-net-core-mvc-project-with-w
 
 to run app:
 in terminal cd to todoApp folder and enter 'dotnet run'
-it starts and gives you a port.  in browser use that:  http://localhost:[PORT]/Todo
+it starts and gives you a port (5018 is typ- but varies).  in browser use that:  http://localhost:[PORT]/Todo  
+   http://localhost:5018/Todo
 do normal Cntl+C to stop server
 
 db: sqlite local instance in this case.
 got an error.  need to do cmd pallet nuget package gallery and pick entityframeworkCore.Tools (listed it in the error) since use of sqlite is deprecated
  https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Sqlite
+ you would want to implement a prod style db.  SQL Server is pretty common on .net (another MS product) but all major ones work- postgres, mysql, oracle, etc
 
 C# SDK:
 dotnet ver.  terminal = dotnet --version.  note had some trouble w/ initial downloaded ver 6, using ver 7 now and seems to work
 
-note this nuget package gallery does most of the 'coding' for you.  trouble seems mainly with knowing which ones to choose.
-  this was only an introductory example.
+dev process: note this nuget package gallery does most of the 'coding' for you.  trouble seems mainly with knowing which ones to choose.
+  this was only an introductory example. but does do all the fundamental CRUD stuff.
 
 github branch change note
 
